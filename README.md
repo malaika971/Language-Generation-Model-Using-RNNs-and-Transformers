@@ -125,17 +125,14 @@ This project demonstrates the power of combining different architectures and emb
 
 ---
 
-
-
-
-![InfoGraphic_LanguageGeneration1](https://github.com/user-attachments/assets/ce221852-50da-4aca-a6b8-a4d0ef6efad7)
+![InfoGraphic_LanguageGeneration1-transformed](https://github.com/user-attachments/assets/cec7af32-65c4-45b8-81ac-568f0b0018ff)
 
 
 
 
 
 
-![InfoGraphic_LanguageGeneration2](https://github.com/user-attachments/assets/9b9d4b2f-70b0-4093-a2c9-9edf3d52f872)
+![InfoGraphic_LanguageGeneration2-transformed](https://github.com/user-attachments/assets/eea3abdb-563e-4f03-907e-9a0ea1e25a51)
 
 
 
